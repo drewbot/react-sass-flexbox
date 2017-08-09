@@ -13,7 +13,7 @@ class Overview extends Component {
           return (
             <section>
               <FeatureCard feature={ obj }>
-                balls
+                nested content
               </FeatureCard>
             </section>
           )

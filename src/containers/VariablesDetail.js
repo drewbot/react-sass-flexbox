@@ -13,7 +13,7 @@ class VariablesDetail extends Component {
           return (
             <section>
               <FeatureCard feature={ obj }>
-                balls
+                nested content
               </FeatureCard>
             </section>
           )
